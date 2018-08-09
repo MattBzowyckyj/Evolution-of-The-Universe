@@ -3,8 +3,7 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 
 
 ### The Evolution of Stars
-<img style="float: right;" src="Hertzsprung-Russel_Diagram.png">
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img style="float: right;" src="Hertzsprung-Russel_Diagram.png">  Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
