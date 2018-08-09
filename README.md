@@ -2,10 +2,10 @@
 Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford School in West Hartford, CT. During the summer of 2018, I worked as a researcher at UCONN to follow my passion in astronomy and astrophysics. This website compiles all that I have learned during the past three months. 
 
 
-## The Evolution of Stars
-
+### The Evolution of Stars
+##Average
 <img align="right" src="Hertzsprung-Russel_Diagram.png">
-Stars come in all shapes and sizes. In the beginning of a star's life        
+Stars come in all shapes and sizes. In the beginning, a star is usually smaller and bluer. The more massive a star is, the more energy it contains and the higher temperature it has. As stars grow older, they begin to grow in size and turn more yellow. The star 
 
 ## The Evolution of Galaxies
 
