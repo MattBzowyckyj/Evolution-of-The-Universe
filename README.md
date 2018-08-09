@@ -5,7 +5,8 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 ## The Evolution of Stars
 
 <img align="right" src="Hertzsprung-Russel_Diagram.png">
-Stars come in all shapes and sizes. In the beginning of a star's life          
+Stars come in all shapes and sizes. In the beginning of a star's life        
+
 ## The Evolution of Galaxies
 
   The two main types of galaxies we see in the universe are the more disorganized, spherical elliptical galaxies and the more organized, star forming disk-like galaxies. There is a larger diversity of disk-like galaxies since these galaxies can have differing amounts of arms, or different center shapes like bars.
