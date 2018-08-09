@@ -4,6 +4,7 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 
 ### The Evolution of Stars
 ![testimage](Test.jpg)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
