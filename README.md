@@ -4,15 +4,7 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 
 ## The Evolution of Stars
 
-<img align="right" src="Hertzsprung-Russel_Diagram.png"> #put in > to fix cred: Wikipedia
-
-qqqq
-  q
-    q
-    q
-      q
-        q
-          q
+img align="right" src="Hertzsprung-Russel_Diagram.png"> #put in > to fix cred: Wikipedia
           
 ## The Evolution of Galaxies
 
