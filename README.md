@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Evolution of Our Universe
 
 You can use the [editor on GitHub](https://github.com/MattBzowyckyj/Evolution-of-The-Universe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
