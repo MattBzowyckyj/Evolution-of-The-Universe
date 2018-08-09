@@ -5,7 +5,7 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 ### The Evolution of Stars
 Markdown is a lightweight and easy-to-use syntax for styling your writing. 
 
-<img style="float:right;" src="Hertzsprung-Russel_Diagram.png"> 
+<img align="right" src="Hertzsprung-Russel_Diagram.png"> 
 
 It includes conventions for q wqr w et weltkw utqwerpq webtw tpwqtbeb wtqwriy weotiubq wryqw4pyb w4tqp3yi bq Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for q wqr w et weltkw utqwerpq webtw tpwqtbeb wtqwriy weotiubq wryqw4pyb
 
