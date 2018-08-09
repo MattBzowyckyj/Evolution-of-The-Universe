@@ -1,10 +1,8 @@
 ## The Evolution of Our Universe
+Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford School in West Hartford, CT. During the summer of 2018, I worked as a researcher at UCONN to follow my passion in astronomy and astroohysics. This website compiles all that I have learned during the last three months. 
 
-You can use the [editor on GitHub](https://github.com/MattBzowyckyj/Evolution-of-The-Universe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### The Evolution of Stars
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
