@@ -3,10 +3,9 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 
 
 ### The Evolution of Stars
-##Average
 <img align="right" src="Hertzsprung-Russel_Diagram.png">
-Stars come in all shapes and sizes. In the beginning, a star is usually smaller and bluer. The more massive a star is, the more energy it contains and the higher temperature it has. As stars grow older, they begin to grow in size and turn more yellow. The star 
-
+Stars come in all shapes and sizes. An average star life begins with it being smaller and bluer. The more massive a star is, the more energy it contains and the higher temperature it has. As the star becomes older, it begins to grow in size and turn more yellow. The star 
+is no longer as massive, and it begins to cool. The older the star becomes, the redder and cooler it becomes. It will also increase in diameter. Eventually, the star will start to run out of energy, and once it starts creating iron, the force of gravity pulling inward becomes greater than the star's force repelling outward. The 
 ## The Evolution of Galaxies
 
   The two main types of galaxies we see in the universe are the more disorganized, spherical elliptical galaxies and the more organized, star forming disk-like galaxies. There is a larger diversity of disk-like galaxies since these galaxies can have differing amounts of arms, or different center shapes like bars.
