@@ -2,7 +2,7 @@
 Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford School in West Hartford, CT. During the summer of 2018, I worked as a researcher at UCONN to follow my passion in astronomy and astrophysics. This website compiles all that I have learned during the past three months. 
 
 ## The Evolution of Stars
-<img align="middle" src="Hertzsprung-Russel_Diagram.png">
+<img align="center" src="Hertzsprung-Russel_Diagram.png">
    Stars come in many shapes and sizes.  Usually, a star begins as small and blue.The more massive a star is, the  more energy it contains and the higher  temperature it has. As the star becomes  older, it begins to grow in size and turn  more yellow. The star is no longer as  massive, and it begins to cool. The  older the star becomes, the redder and  cooler it becomes. It will also increase in   diameter.
   
   Eventually, the star will start to run out of energy. When the star beings to create iron, it can no longer sustain itself. The gravity pulling inward towards the star's center becomes greater than the force pushing outward. The gravity will cause the star to collapse, shedding its outer layer. A star usually leaves its small core behind as a red or white dwarf as a planetary nebula.
