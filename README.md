@@ -5,10 +5,12 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 <img align="left" src="Hertzsprung-Russel_Diagram.png" width = "400" height = "400"> 
 
    Stars come in many shapes and sizes. Usually, a star begins as small and blue.The more massive a star is, the more energy it contains and the higher temperature it has. As the star becomes older, it begins to grow in size and turn more yellow. The star is no longer as massive, and it begins to cool. The older the star becomes, the more red and cooler it becomes. It will also increase in diameter.
+ 
+    > The Hertzprung Russel Diagram.    Credit: [Wikipedia](https://www.wikipedia.org/)
   
   Eventually, the star will start to run out of energy. When the star beings to create iron, it can no longer sustain itself. The gravity pulling inward towards the star's center becomes greater than the force pushing outward. The gravity will cause the star to collapse, shedding its outer layer. A star usually leaves its small core behind as a red or white dwarf as a planetary nebula.
   
-  > The Hertzprung Russel Diagram.    Credit: [Wikipedia](https://www.wikipedia.org/)
+
   
   
    If a star is more massive, it may instead turn into a neutron star or black hole. A neutron star is considered the extreme version of a white dwarf. During its supernova, the star pushes everything away except for the neutrons in its core. The supernova leaves a small, dense object with an extremely fast rotation, often spinning hundreds of times a second. Neutron stars are usually created from stars that are more massive, but not massive enough to form a black hole.
