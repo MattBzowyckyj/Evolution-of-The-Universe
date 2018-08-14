@@ -1,4 +1,4 @@
-### The Evolution of Our Universe
+## The Evolution of Our Universe
 Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford School in West Hartford, CT. During the summer of 2018, I worked as a researcher at UCONN to follow my passion in astronomy and astrophysics. This website compiles all that I have learned during the past three months. 
 
 ## The Evolution of Stars
@@ -17,5 +17,13 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
  There are two main categories of galaxies in the universe. Some galaxies are more disorganized and spherical. These galaxies are called elliptical galaxies. Others are more organized, star forming disk-like galaxies. These galaxies are usually spiral or barred spiral. The amount of gas a galaxy contains correlates with the galaxy's structure. A more gaseous galaxy allows for more starforming regions. These starforming regions create many new stars to replace the old ones, so the galaxy is well-developed. Less gas means less-starforming regions, so the galaxy will be less developed.
 <img src="182233.png"> 
   Younger galaxies tend to be smaller and disk-like, as the majority of the stars are in adolescence (small and blue). These galaxies often contain many starforming regions, as the stars experience quick, explosive lives. When these stars die, they give off many nutrients and elements for new stars. The constant creation and destruction of young, bluer stars means a well-developed galaxy that is disk-like and organized. Over time, the star population begins to age. A higher percentage of the stars forming are red, and not blue. Red stars tend to live a lot longer than blue stars, as they are less massive, so they die slowly. When stars die slowly, they give off much less material and nutrients for new stars. Their deaths are not as explosive as blue stars, so they retain their elements. As mentioned earlier, less gas leads to a breakdown of galaxy structure. Not as many stars are being created, and the older stars are staying. Gradually, the galaxy will become more clumpy as the star populations age and become more red. 
+  
 ## Celestial Mergers
-  The universe is a chaotic place. T
+
+  The universe is a chaotic place. 
+  
+## The Role of Black Holes
+
+## How Dark Matter Affects our Universe
+
+## The Overall Evolution of Our Universe
