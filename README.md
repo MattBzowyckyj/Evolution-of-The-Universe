@@ -38,4 +38,5 @@ Younger galaxies tend to be smaller and disk-like, as the majority of the stars 
 ## The Overall Evolution of Our Universe
 
 ## Illustris, Zooniverse, & SDSS
-	During my threee meeeeeeeeeeeeeee eeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeeeee eeeeeeeeeeeeeeee
+	During my threee meeeeeeeeeeeeeee eeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeee
+ 
