@@ -10,6 +10,7 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
   
   > The Hertzprung Russel Diagram.    Credit: [Wikipedia](https://www.wikipedia.org/)
   
+  
   If a star is more massive, it may instead turn into a neutron star or black hole. A neutron star is considered the extreme version of a white dwarf. During its supernova, the star pushes everything away except for the neutrons in its core. The supernova leaves a small, dense object with an extremely fast rotation, often spinning hundreds of times a second. Neutron stars are usually created from stars that are more massive, but not massive enough to form a black hole.
   
   If a star is very massive, it will most likely turn into a black hole. When the star explodes, its gravity is so strong that it compresses everything, creating a black hole. The gravity of a black hole is so strong, nothing can escape its hold, including light. Black holes are invisible to us because all of the light is absorbed, so no light can bounce back to us. We know where black holes are because of its accretion disks. Accretion disks are disk-like objects that form around the black hole. It is comprised of all the matter it pulled in spinning around the black hole. The size and brightness of its accretion disk can help us determine the size of a black hole.
