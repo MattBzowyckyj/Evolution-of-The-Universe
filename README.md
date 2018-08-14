@@ -5,7 +5,7 @@ Hello! My name is Matthew Bzowyckyj and I am a freshman at Kingswood OXford Scho
 
 <img align="left" src="Hertzsprung-Russel_Diagram.png" width = "400" height = "400"> 
    
-   Stars come in many shapes and sizes. Usually, a star begins as small and blue.The more massive a star is, the more energy it contains and the higher temperature it has. As the star becomes older, it begins to grow in size and turn more yellow. The star is no longer as massive, and it begins to cool. The older the star becomes, the more red and cooler it becomes. It will also increase in diameter.
+	Stars come in many shapes and sizes. Usually, a star begins as small and blue.The more massive a star is, the more energy it contains and the higher temperature it has. As the star becomes older, it begins to grow in size and turn more yellow. The star is no longer as massive, and it begins to cool. The older the star becomes, the more red and cooler it becomes. It will also increase in   diameter.
 
  > The Hertzprung Russel Diagram.    
  Credit: [Wikipedia](https://www.wikipedia.org/)
