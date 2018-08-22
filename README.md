@@ -26,9 +26,10 @@ Stars come in many shapes and sizes. Usually, a star begins as small and blue.Th
   Younger galaxies tend to be smaller and disk-like, as the majority of the stars are in adolescence (small and blue). These galaxies often contain many starforming regions, as the stars experience quick, explosive lives. When these stars die, they give off many nutrients and elements for new stars. The constant creation and destruction of young, bluer stars means a well-developed galaxy that is disk-like and organized. Over time, the star population begins to age. A higher percentage of the stars forming are red, and not blue. Red stars tend to live a lot longer than blue stars, as they are less massive, so they die slowly. When stars die slowly, they give off much less material and nutrients for new stars. Their deaths are not as explosive as blue stars, so they retain their elements. As mentioned earlier, less gas leads to a breakdown of galaxy structure. Not as many stars are being created, and the older stars are dying much more slowly. Gradually, the galaxy will become more clumpy as the star populations age and become more red. There is not as much gas, which helps with a galaxy's structure.
   
 ## The Evolution of Black Holes
-Black holes are still one of the most mysterious objects in our unvierse. So, there is little evidence so far to show how black holes evolve. Scientists either observe small, solar mass black holes, or large, supermassive black holes. Intermediate mass black holes are seemingly very rare, and we have only observed a few. Many scientists believe 
+Black holes are still one of the most mysterious objects in our unvierse. So, there is little evidence so far to show how black holes evolve. Scientists either observe small, solar mass black holes, or large, supermassive black holes. Intermediate mass black holes are seemingly very rare, and we have only observed a few, so scientists aren't sure if there is an intermediate step between stellar black holes and super massive black holes. There are different theories regarding black holes. Most scientists believe that black holes are smaller, but coalesce in the centers of galaxies, growing larger and more massive as time goes on. 
+
 ## Celestial Mergers
-The universe is a chaotic place. 
+The universe is a chaotic place. Whether it be stars, 
   
 
 
@@ -41,7 +42,9 @@ The universe is a chaotic place.
   
   The [Illustris Cosmological Simulation](https://http://www.illustris-project.org/) is a large simulation of a universe much like our own. The Illustris Project has helped researchers understand more about galaxy formation, as well as the evolution of our universe.
   
-  To make it easier to identify different galaxies, I worked on a project called [Galaxy Zoo:3D](https://www.zooniverse.org/projects/klmasters/galaxy-zoo-3d). This project helped me learn more about galaxy formation and how to identify different galaxies
+  To make it easier to identify different galaxies, I worked on a project called [Galaxy Zoo:3D]
+ (https://www.zooniverse.org/projects/klmasters/galaxy-zoo-3d). This project helped me learn more about galaxy formation and how to identify different galaxies.
+ 
   <img src = "Zooniverse1.png">
   
   I also used the Sloan Digital Sky Survey, or [SDSS](https://www.sdss.org/) to study quasars. SDSS allowed me to download data about real quasars, and then input their right ascension and declination to find the quasar using a navigation tool. I could then learn more about the quasar I found.
