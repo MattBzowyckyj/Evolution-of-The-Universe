@@ -46,4 +46,4 @@ The universe is a chaotic place.
   
   I also used the Sloan Digital Sky Survey, or [SDSS](https://www.sdss.org/) to study quasars. SDSS allowed me to download data about real quasars, and then input their right ascension and declination to find them on a navigation tool. I could then learn more about the quasar I found.
   
-  <img align = "left" src = "Quasar1.image.gif" width = "300" height = "300"> <img align = "center" src = "Quasar1.map.png" width = "300" height = "300"> <img align = "right" src = "Quasar1.plot.gif" width = "400" height = "300"> 
+  <img align = "left" src = "Quasar1.image.gif" width = "300" height = "300"> <img align = "center" src = "Quasar1.map.png" width = "300" height = "300"> <img align = "center" src = "Quasar1.plot.gif" width = "400" height = "300"> 
