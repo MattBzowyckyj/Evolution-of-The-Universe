@@ -25,10 +25,12 @@ Stars come in many shapes and sizes. Usually, a star begins as small and blue.Th
 
   Younger galaxies tend to be smaller and disk-like, as the majority of the stars are in adolescence (small and blue). These galaxies often contain many starforming regions, as the stars experience quick, explosive lives. When these stars die, they give off many nutrients and elements for new stars. The constant creation and destruction of young, bluer stars means a well-developed galaxy that is disk-like and organized. Over time, the star population begins to age. A higher percentage of the stars forming are red, and not blue. Red stars tend to live a lot longer than blue stars, as they are less massive, so they die slowly. When stars die slowly, they give off much less material and nutrients for new stars. Their deaths are not as explosive as blue stars, so they retain their elements. As mentioned earlier, less gas leads to a breakdown of galaxy structure. Not as many stars are being created, and the older stars are staying. Gradually, the galaxy will become more clumpy as the star populations age and become more red. 
   
+## The Evolution of Black Holes
+Black holes are still one of the most mysterious objects in our unvierse. So, there is
 ## Celestial Mergers
-The universe is a chaotic place.
+The universe is a chaotic place. 
   
-## The Role of Black Holes
+
 
 ## How Dark Matter Affects our Universe
 
@@ -36,6 +38,6 @@ The universe is a chaotic place.
 
 ## Illustris, Zooniverse, & SDSS
   While researching, I used a variety of different servers and online projects such as SDSS, Zooniverese and the Illustris Cosmological Simulation to learn more about the universe. 
-  The [Illustris Cosmological Simulation](https://http://www.illustris-project.org/) is a large simulation of a universe much like our own. The Illustris Project has helped researchers understand more about galaxy formation, as well as the evolution of our universe. 
-  To make it easier to identify different galaxies, I worked on a project called [Galaxy Zoo:3D](https://www.zooniverse.org/projects/klmasters/galaxy-zoo-3d). This project allows you to 
-  
+  The [Illustris Cosmological Simulation](https://http://www.illustris-project.org/) is a large simulation of a universe much like our own. The Illustris Project has helped researchers understand more about galaxy formation, as well as the evolution of our universe.
+  To make it easier to identify different galaxies, I worked on a project called [Galaxy Zoo:3D](https://www.zooniverse.org/projects/klmasters/galaxy-zoo-3d). This project helped me learn more about galaxy formation and how to identify different galaxies
+  <img src = "Zooniverse1.png" width = "200" height = "200">
