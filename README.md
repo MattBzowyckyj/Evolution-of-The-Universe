@@ -40,4 +40,4 @@ The universe is a chaotic place.
   While researching, I used a variety of different servers and online projects such as SDSS, Zooniverese and the Illustris Cosmological Simulation to learn more about the universe. 
   The [Illustris Cosmological Simulation](https://http://www.illustris-project.org/) is a large simulation of a universe much like our own. The Illustris Project has helped researchers understand more about galaxy formation, as well as the evolution of our universe.
   To make it easier to identify different galaxies, I worked on a project called [Galaxy Zoo:3D](https://www.zooniverse.org/projects/klmasters/galaxy-zoo-3d). This project helped me learn more about galaxy formation and how to identify different galaxies
-  <img align = "left" img src = "Zooniverse1.png" width = "200" height = "200"> <img align = "center" img src = "
+  img src = "Zooniverse1.png" 
